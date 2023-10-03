@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Page Layout
+![Screenshot 2023-10-03 231643](https://github.com/abhay-01/Car_Search_React-JS/assets/86042963/3cfd4d91-bfe1-45b7-84b9-9e0ccacf76f9)
+
+### Catalogue of Cars
 ## Available Scripts
 
 In the project directory, you can run:
